@@ -1,11 +1,29 @@
 {
-"films": [
+"films":[
   {
     "fields": {
-      "starships": [2, 3, 5, 9, 10, 11, 12, 13],
+      "starships": [
+        2,
+        3,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
       "edited": "2014-12-20T19:49:45.256Z",
-      "vehicles": [4, 6, 7, 8],
-      "planets": [1, 2, 3],
+      "vehicles": [
+        4,
+        6,
+        7,
+        8
+      ],
+      "planets": [
+        1,
+        2,
+        3
+      ],
       "producer": "Gary Kurtz, Rick McCallum",
       "title": "A New Hope",
       "created": "2014-12-10T14:23:31.880Z",
@@ -33,17 +51,45 @@
         19,
         81
       ],
-      "species": [1, 2, 3, 4, 5]
+      "species": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     "model": "resources.film",
-    "pk": 1
+    "id": 1
   },
   {
     "fields": {
-      "starships": [3, 10, 11, 12, 15, 17, 21, 22, 23],
+      "starships": [
+        3,
+        10,
+        11,
+        12,
+        15,
+        17,
+        21,
+        22,
+        23
+      ],
       "edited": "2014-12-15T13:07:53.386Z",
-      "vehicles": [8, 14, 16, 18, 19, 20],
-      "planets": [4, 5, 6, 27],
+      "vehicles": [
+        8,
+        14,
+        16,
+        18,
+        19,
+        20
+      ],
+      "planets": [
+        4,
+        5,
+        6,
+        27
+      ],
       "producer": "Gary Kurtz, Rick McCallum",
       "title": "The Empire Strikes Back",
       "created": "2014-12-12T11:26:24.656Z",
@@ -51,18 +97,69 @@
       "director": "Irvin Kershner",
       "release_date": "1980-05-17",
       "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
-      "characters": [1, 2, 3, 4, 5, 10, 13, 14, 18, 20, 21, 22, 23, 24, 25, 26],
-      "species": [1, 2, 3, 6, 7]
+      "characters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        13,
+        14,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "species": [
+        1,
+        2,
+        3,
+        6,
+        7
+      ]
     },
     "model": "resources.film",
-    "pk": 2
+    "id": 2
   },
   {
     "fields": {
-      "starships": [2, 3, 10, 11, 12, 15, 17, 22, 23, 27, 28, 29],
+      "starships": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        15,
+        17,
+        22,
+        23,
+        27,
+        28,
+        29
+      ],
       "edited": "2014-12-20T09:48:37.462Z",
-      "vehicles": [8, 16, 18, 19, 24, 25, 26, 30],
-      "planets": [1, 5, 7, 8, 9],
+      "vehicles": [
+        8,
+        16,
+        18,
+        19,
+        24,
+        25,
+        26,
+        30
+      ],
+      "planets": [
+        1,
+        5,
+        7,
+        8,
+        9
+      ],
       "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
       "title": "Return of the Jedi",
       "created": "2014-12-18T10:39:33.255Z",
@@ -92,17 +189,45 @@
         31,
         45
       ],
-      "species": [1, 2, 3, 5, 6, 8, 9, 10, 15]
+      "species": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        15
+      ]
     },
     "model": "resources.film",
-    "pk": 3
+    "id": 3
   },
   {
     "fields": {
-      "starships": [31, 32, 39, 40, 41],
+      "starships": [
+        31,
+        32,
+        39,
+        40,
+        41
+      ],
       "edited": "2014-12-20T10:54:07.216Z",
-      "vehicles": [33, 34, 35, 36, 37, 38, 42],
-      "planets": [1, 8, 9],
+      "vehicles": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        42
+      ],
+      "planets": [
+        1,
+        8,
+        9
+      ],
       "producer": "Rick McCallum",
       "title": "The Phantom Menace",
       "created": "2014-12-19T16:52:55.740Z",
@@ -170,14 +295,42 @@
       ]
     },
     "model": "resources.film",
-    "pk": 4
+    "id": 4
   },
   {
     "fields": {
-      "starships": [21, 32, 39, 43, 47, 48, 49, 52, 58],
+      "starships": [
+        21,
+        32,
+        39,
+        43,
+        47,
+        48,
+        49,
+        52,
+        58
+      ],
       "edited": "2014-12-20T20:18:48.516Z",
-      "vehicles": [4, 44, 45, 46, 50, 51, 53, 54, 55, 56, 57],
-      "planets": [1, 8, 9, 10, 11],
+      "vehicles": [
+        4,
+        44,
+        45,
+        46,
+        50,
+        51,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "planets": [
+        1,
+        8,
+        9,
+        10,
+        11
+      ],
       "producer": "Rick McCallum",
       "title": "Attack of the Clones",
       "created": "2014-12-20T10:57:57.886Z",
@@ -227,17 +380,73 @@
         78,
         82
       ],
-      "species": [1, 2, 6, 12, 13, 15, 28, 29, 30, 31, 32, 33, 34, 35]
+      "species": [
+        1,
+        2,
+        6,
+        12,
+        13,
+        15,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
     },
     "model": "resources.film",
-    "pk": 5
+    "id": 5
   },
   {
     "fields": {
-      "starships": [2, 32, 48, 59, 61, 63, 64, 65, 66, 68, 74, 75],
+      "starships": [
+        2,
+        32,
+        48,
+        59,
+        61,
+        63,
+        64,
+        65,
+        66,
+        68,
+        74,
+        75
+      ],
       "edited": "2014-12-20T20:47:52.073Z",
-      "vehicles": [33, 50, 53, 56, 60, 62, 67, 69, 70, 71, 72, 73, 76],
-      "planets": [1, 2, 5, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19],
+      "vehicles": [
+        33,
+        50,
+        53,
+        56,
+        60,
+        62,
+        67,
+        69,
+        70,
+        71,
+        72,
+        73,
+        76
+      ],
+      "planets": [
+        1,
+        2,
+        5,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
       "producer": "Rick McCallum",
       "title": "Revenge of the Sith",
       "created": "2014-12-20T18:49:38.403Z",
@@ -305,7 +514,7 @@
       ]
     },
     "model": "resources.film",
-    "pk": 6
+    "id": 6
   }
 ],
   "people": [
@@ -324,7 +533,7 @@
       "birth_year": "19BBY"
     },
     "model": "resources.people",
-    "pk": 1
+    "id": 1
   },
   {
     "fields": {
@@ -341,7 +550,7 @@
       "birth_year": "112BBY"
     },
     "model": "resources.people",
-    "pk": 2
+    "id": 2
   },
   {
     "fields": {
@@ -358,7 +567,7 @@
       "birth_year": "33BBY"
     },
     "model": "resources.people",
-    "pk": 3
+    "id": 3
   },
   {
     "fields": {
@@ -375,7 +584,7 @@
       "birth_year": "41.9BBY"
     },
     "model": "resources.people",
-    "pk": 4
+    "id": 4
   },
   {
     "fields": {
@@ -392,7 +601,7 @@
       "birth_year": "19BBY"
     },
     "model": "resources.people",
-    "pk": 5
+    "id": 5
   },
   {
     "fields": {
@@ -409,7 +618,7 @@
       "birth_year": "52BBY"
     },
     "model": "resources.people",
-    "pk": 6
+    "id": 6
   },
   {
     "fields": {
@@ -426,7 +635,7 @@
       "birth_year": "47BBY"
     },
     "model": "resources.people",
-    "pk": 7
+    "id": 7
   },
   {
     "fields": {
@@ -443,7 +652,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 8
+    "id": 8
   },
   {
     "fields": {
@@ -460,7 +669,7 @@
       "birth_year": "24BBY"
     },
     "model": "resources.people",
-    "pk": 9
+    "id": 9
   },
   {
     "fields": {
@@ -477,7 +686,7 @@
       "birth_year": "57BBY"
     },
     "model": "resources.people",
-    "pk": 10
+    "id": 10
   },
   {
     "fields": {
@@ -494,7 +703,7 @@
       "birth_year": "41.9BBY"
     },
     "model": "resources.people",
-    "pk": 11
+    "id": 11
   },
   {
     "fields": {
@@ -511,7 +720,7 @@
       "birth_year": "64BBY"
     },
     "model": "resources.people",
-    "pk": 12
+    "id": 12
   },
   {
     "fields": {
@@ -528,7 +737,7 @@
       "birth_year": "200BBY"
     },
     "model": "resources.people",
-    "pk": 13
+    "id": 13
   },
   {
     "fields": {
@@ -545,7 +754,7 @@
       "birth_year": "29BBY"
     },
     "model": "resources.people",
-    "pk": 14
+    "id": 14
   },
   {
     "fields": {
@@ -562,7 +771,7 @@
       "birth_year": "44BBY"
     },
     "model": "resources.people",
-    "pk": 15
+    "id": 15
   },
   {
     "fields": {
@@ -579,7 +788,7 @@
       "birth_year": "600BBY"
     },
     "model": "resources.people",
-    "pk": 16
+    "id": 16
   },
   {
     "fields": {
@@ -596,7 +805,7 @@
       "birth_year": "21BBY"
     },
     "model": "resources.people",
-    "pk": 18
+    "id": 18
   },
   {
     "fields": {
@@ -613,7 +822,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 19
+    "id": 19
   },
   {
     "fields": {
@@ -630,7 +839,7 @@
       "birth_year": "896BBY"
     },
     "model": "resources.people",
-    "pk": 20
+    "id": 20
   },
   {
     "fields": {
@@ -647,7 +856,7 @@
       "birth_year": "82BBY"
     },
     "model": "resources.people",
-    "pk": 21
+    "id": 21
   },
   {
     "fields": {
@@ -664,7 +873,7 @@
       "birth_year": "31.5BBY"
     },
     "model": "resources.people",
-    "pk": 22
+    "id": 22
   },
   {
     "fields": {
@@ -681,7 +890,7 @@
       "birth_year": "15BBY"
     },
     "model": "resources.people",
-    "pk": 23
+    "id": 23
   },
   {
     "fields": {
@@ -698,7 +907,7 @@
       "birth_year": "53BBY"
     },
     "model": "resources.people",
-    "pk": 24
+    "id": 24
   },
   {
     "fields": {
@@ -715,7 +924,7 @@
       "birth_year": "31BBY"
     },
     "model": "resources.people",
-    "pk": 25
+    "id": 25
   },
   {
     "fields": {
@@ -732,7 +941,7 @@
       "birth_year": "37BBY"
     },
     "model": "resources.people",
-    "pk": 26
+    "id": 26
   },
   {
     "fields": {
@@ -749,7 +958,7 @@
       "birth_year": "41BBY"
     },
     "model": "resources.people",
-    "pk": 27
+    "id": 27
   },
   {
     "fields": {
@@ -766,7 +975,7 @@
       "birth_year": "48BBY"
     },
     "model": "resources.people",
-    "pk": 28
+    "id": 28
   },
   {
     "fields": {
@@ -783,7 +992,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 29
+    "id": 29
   },
   {
     "fields": {
@@ -800,7 +1009,7 @@
       "birth_year": "8BBY"
     },
     "model": "resources.people",
-    "pk": 30
+    "id": 30
   },
   {
     "fields": {
@@ -817,7 +1026,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 31
+    "id": 31
   },
   {
     "fields": {
@@ -834,7 +1043,7 @@
       "birth_year": "92BBY"
     },
     "model": "resources.people",
-    "pk": 32
+    "id": 32
   },
   {
     "fields": {
@@ -851,7 +1060,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 33
+    "id": 33
   },
   {
     "fields": {
@@ -868,7 +1077,7 @@
       "birth_year": "91BBY"
     },
     "model": "resources.people",
-    "pk": 34
+    "id": 34
   },
   {
     "fields": {
@@ -885,7 +1094,7 @@
       "birth_year": "46BBY"
     },
     "model": "resources.people",
-    "pk": 35
+    "id": 35
   },
   {
     "fields": {
@@ -902,7 +1111,7 @@
       "birth_year": "52BBY"
     },
     "model": "resources.people",
-    "pk": 36
+    "id": 36
   },
   {
     "fields": {
@@ -919,7 +1128,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 37
+    "id": 37
   },
   {
     "fields": {
@@ -936,7 +1145,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 38
+    "id": 38
   },
   {
     "fields": {
@@ -953,7 +1162,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 39
+    "id": 39
   },
   {
     "fields": {
@@ -970,7 +1179,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 40
+    "id": 40
   },
   {
     "fields": {
@@ -987,7 +1196,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 41
+    "id": 41
   },
   {
     "fields": {
@@ -1004,7 +1213,7 @@
       "birth_year": "62BBY"
     },
     "model": "resources.people",
-    "pk": 42
+    "id": 42
   },
   {
     "fields": {
@@ -1021,7 +1230,7 @@
       "birth_year": "72BBY"
     },
     "model": "resources.people",
-    "pk": 43
+    "id": 43
   },
   {
     "fields": {
@@ -1038,7 +1247,7 @@
       "birth_year": "54BBY"
     },
     "model": "resources.people",
-    "pk": 44
+    "id": 44
   },
   {
     "fields": {
@@ -1055,7 +1264,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 45
+    "id": 45
   },
   {
     "fields": {
@@ -1072,7 +1281,7 @@
       "birth_year": "48BBY"
     },
     "model": "resources.people",
-    "pk": 46
+    "id": 46
   },
   {
     "fields": {
@@ -1089,7 +1298,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 47
+    "id": 47
   },
   {
     "fields": {
@@ -1106,7 +1315,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 48
+    "id": 48
   },
   {
     "fields": {
@@ -1123,7 +1332,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 49
+    "id": 49
   },
   {
     "fields": {
@@ -1140,7 +1349,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 50
+    "id": 50
   },
   {
     "fields": {
@@ -1157,7 +1366,7 @@
       "birth_year": "72BBY"
     },
     "model": "resources.people",
-    "pk": 51
+    "id": 51
   },
   {
     "fields": {
@@ -1174,7 +1383,7 @@
       "birth_year": "92BBY"
     },
     "model": "resources.people",
-    "pk": 52
+    "id": 52
   },
   {
     "fields": {
@@ -1191,7 +1400,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 53
+    "id": 53
   },
   {
     "fields": {
@@ -1208,7 +1417,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 54
+    "id": 54
   },
   {
     "fields": {
@@ -1225,7 +1434,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 55
+    "id": 55
   },
   {
     "fields": {
@@ -1242,7 +1451,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 56
+    "id": 56
   },
   {
     "fields": {
@@ -1259,7 +1468,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 57
+    "id": 57
   },
   {
     "fields": {
@@ -1276,7 +1485,7 @@
       "birth_year": "22BBY"
     },
     "model": "resources.people",
-    "pk": 58
+    "id": 58
   },
   {
     "fields": {
@@ -1293,7 +1502,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 59
+    "id": 59
   },
   {
     "fields": {
@@ -1310,7 +1519,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 60
+    "id": 60
   },
   {
     "fields": {
@@ -1327,7 +1536,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 61
+    "id": 61
   },
   {
     "fields": {
@@ -1344,7 +1553,7 @@
       "birth_year": "82BBY"
     },
     "model": "resources.people",
-    "pk": 62
+    "id": 62
   },
   {
     "fields": {
@@ -1361,7 +1570,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 63
+    "id": 63
   },
   {
     "fields": {
@@ -1378,7 +1587,7 @@
       "birth_year": "58BBY"
     },
     "model": "resources.people",
-    "pk": 64
+    "id": 64
   },
   {
     "fields": {
@@ -1395,7 +1604,7 @@
       "birth_year": "40BBY"
     },
     "model": "resources.people",
-    "pk": 65
+    "id": 65
   },
   {
     "fields": {
@@ -1412,7 +1621,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 66
+    "id": 66
   },
   {
     "fields": {
@@ -1429,7 +1638,7 @@
       "birth_year": "102BBY"
     },
     "model": "resources.people",
-    "pk": 67
+    "id": 67
   },
   {
     "fields": {
@@ -1446,7 +1655,7 @@
       "birth_year": "67BBY"
     },
     "model": "resources.people",
-    "pk": 68
+    "id": 68
   },
   {
     "fields": {
@@ -1463,7 +1672,7 @@
       "birth_year": "66BBY"
     },
     "model": "resources.people",
-    "pk": 69
+    "id": 69
   },
   {
     "fields": {
@@ -1480,7 +1689,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 70
+    "id": 70
   },
   {
     "fields": {
@@ -1497,7 +1706,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 71
+    "id": 71
   },
   {
     "fields": {
@@ -1514,7 +1723,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 72
+    "id": 72
   },
   {
     "fields": {
@@ -1531,7 +1740,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 73
+    "id": 73
   },
   {
     "fields": {
@@ -1548,7 +1757,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 74
+    "id": 74
   },
   {
     "fields": {
@@ -1565,7 +1774,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 75
+    "id": 75
   },
   {
     "fields": {
@@ -1582,7 +1791,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 76
+    "id": 76
   },
   {
     "fields": {
@@ -1599,7 +1808,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 77
+    "id": 77
   },
   {
     "fields": {
@@ -1616,7 +1825,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 78
+    "id": 78
   },
   {
     "fields": {
@@ -1633,7 +1842,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 79
+    "id": 79
   },
   {
     "fields": {
@@ -1650,7 +1859,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 80
+    "id": 80
   },
   {
     "fields": {
@@ -1667,7 +1876,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 81
+    "id": 81
   },
   {
     "fields": {
@@ -1684,7 +1893,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 82
+    "id": 82
   },
   {
     "fields": {
@@ -1701,7 +1910,7 @@
       "birth_year": "unknown"
     },
     "model": "resources.people",
-    "pk": 83
+    "id": 83
   }
 ],
   "planets": [
@@ -1720,7 +1929,7 @@
       "population": "200000"
     },
     "model": "resources.planet",
-    "pk": 1
+    "id": 1
   },
   {
     "fields": {
@@ -1737,7 +1946,7 @@
       "population": "2000000000"
     },
     "model": "resources.planet",
-    "pk": 2
+    "id": 2
   },
   {
     "fields": {
@@ -1754,7 +1963,7 @@
       "population": "1000"
     },
     "model": "resources.planet",
-    "pk": 3
+    "id": 3
   },
   {
     "fields": {
@@ -1771,7 +1980,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 4
+    "id": 4
   },
   {
     "fields": {
@@ -1788,7 +1997,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 5
+    "id": 5
   },
   {
     "fields": {
@@ -1805,7 +2014,7 @@
       "population": "6000000"
     },
     "model": "resources.planet",
-    "pk": 6
+    "id": 6
   },
   {
     "fields": {
@@ -1822,7 +2031,7 @@
       "population": "30000000"
     },
     "model": "resources.planet",
-    "pk": 7
+    "id": 7
   },
   {
     "fields": {
@@ -1839,7 +2048,7 @@
       "population": "4500000000"
     },
     "model": "resources.planet",
-    "pk": 8
+    "id": 8
   },
   {
     "fields": {
@@ -1856,7 +2065,7 @@
       "population": "1000000000000"
     },
     "model": "resources.planet",
-    "pk": 9
+    "id": 9
   },
   {
     "fields": {
@@ -1873,7 +2082,7 @@
       "population": "1000000000"
     },
     "model": "resources.planet",
-    "pk": 10
+    "id": 10
   },
   {
     "fields": {
@@ -1890,7 +2099,7 @@
       "population": "100000000000"
     },
     "model": "resources.planet",
-    "pk": 11
+    "id": 11
   },
   {
     "fields": {
@@ -1907,7 +2116,7 @@
       "population": "95000000"
     },
     "model": "resources.planet",
-    "pk": 12
+    "id": 12
   },
   {
     "fields": {
@@ -1924,7 +2133,7 @@
       "population": "20000"
     },
     "model": "resources.planet",
-    "pk": 13
+    "id": 13
   },
   {
     "fields": {
@@ -1941,7 +2150,7 @@
       "population": "45000000"
     },
     "model": "resources.planet",
-    "pk": 14
+    "id": 14
   },
   {
     "fields": {
@@ -1958,7 +2167,7 @@
       "population": "1000000"
     },
     "model": "resources.planet",
-    "pk": 15
+    "id": 15
   },
   {
     "fields": {
@@ -1975,7 +2184,7 @@
       "population": "19000000"
     },
     "model": "resources.planet",
-    "pk": 16
+    "id": 16
   },
   {
     "fields": {
@@ -1992,7 +2201,7 @@
       "population": "8500000"
     },
     "model": "resources.planet",
-    "pk": 17
+    "id": 17
   },
   {
     "fields": {
@@ -2009,7 +2218,7 @@
       "population": "10000000"
     },
     "model": "resources.planet",
-    "pk": 18
+    "id": 18
   },
   {
     "fields": {
@@ -2026,7 +2235,7 @@
       "population": "1400000000"
     },
     "model": "resources.planet",
-    "pk": 19
+    "id": 19
   },
   {
     "fields": {
@@ -2043,7 +2252,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 20
+    "id": 20
   },
   {
     "fields": {
@@ -2060,7 +2269,7 @@
       "population": "22000000000"
     },
     "model": "resources.planet",
-    "pk": 21
+    "id": 21
   },
   {
     "fields": {
@@ -2077,7 +2286,7 @@
       "population": "3000000000"
     },
     "model": "resources.planet",
-    "pk": 22
+    "id": 22
   },
   {
     "fields": {
@@ -2094,7 +2303,7 @@
       "population": "1300000000"
     },
     "model": "resources.planet",
-    "pk": 23
+    "id": 23
   },
   {
     "fields": {
@@ -2111,7 +2320,7 @@
       "population": "7000000000"
     },
     "model": "resources.planet",
-    "pk": 24
+    "id": 24
   },
   {
     "fields": {
@@ -2128,7 +2337,7 @@
       "population": "1000"
     },
     "model": "resources.planet",
-    "pk": 25
+    "id": 25
   },
   {
     "fields": {
@@ -2145,7 +2354,7 @@
       "population": "62000000"
     },
     "model": "resources.planet",
-    "pk": 26
+    "id": 26
   },
   {
     "fields": {
@@ -2162,7 +2371,7 @@
       "population": "4000000000"
     },
     "model": "resources.planet",
-    "pk": 27
+    "id": 27
   },
   {
     "fields": {
@@ -2179,7 +2388,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 28
+    "id": 28
   },
   {
     "fields": {
@@ -2196,7 +2405,7 @@
       "population": "42000000"
     },
     "model": "resources.planet",
-    "pk": 29
+    "id": 29
   },
   {
     "fields": {
@@ -2213,7 +2422,7 @@
       "population": "300000000"
     },
     "model": "resources.planet",
-    "pk": 30
+    "id": 30
   },
   {
     "fields": {
@@ -2230,7 +2439,7 @@
       "population": "27000000000"
     },
     "model": "resources.planet",
-    "pk": 31
+    "id": 31
   },
   {
     "fields": {
@@ -2247,7 +2456,7 @@
       "population": "1200000000"
     },
     "model": "resources.planet",
-    "pk": 32
+    "id": 32
   },
   {
     "fields": {
@@ -2264,7 +2473,7 @@
       "population": "18500000000"
     },
     "model": "resources.planet",
-    "pk": 33
+    "id": 33
   },
   {
     "fields": {
@@ -2281,7 +2490,7 @@
       "population": "11000000"
     },
     "model": "resources.planet",
-    "pk": 34
+    "id": 34
   },
   {
     "fields": {
@@ -2298,7 +2507,7 @@
       "population": "2000000000"
     },
     "model": "resources.planet",
-    "pk": 35
+    "id": 35
   },
   {
     "fields": {
@@ -2315,7 +2524,7 @@
       "population": "5200"
     },
     "model": "resources.planet",
-    "pk": 36
+    "id": 36
   },
   {
     "fields": {
@@ -2332,7 +2541,7 @@
       "population": "1500000000"
     },
     "model": "resources.planet",
-    "pk": 37
+    "id": 37
   },
   {
     "fields": {
@@ -2349,7 +2558,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 38
+    "id": 38
   },
   {
     "fields": {
@@ -2366,7 +2575,7 @@
       "population": "421000000"
     },
     "model": "resources.planet",
-    "pk": 39
+    "id": 39
   },
   {
     "fields": {
@@ -2383,7 +2592,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 40
+    "id": 40
   },
   {
     "fields": {
@@ -2400,7 +2609,7 @@
       "population": "0"
     },
     "model": "resources.planet",
-    "pk": 41
+    "id": 41
   },
   {
     "fields": {
@@ -2417,7 +2626,7 @@
       "population": "705300"
     },
     "model": "resources.planet",
-    "pk": 42
+    "id": 42
   },
   {
     "fields": {
@@ -2434,7 +2643,7 @@
       "population": "450000000"
     },
     "model": "resources.planet",
-    "pk": 43
+    "id": 43
   },
   {
     "fields": {
@@ -2451,7 +2660,7 @@
       "population": "500000000"
     },
     "model": "resources.planet",
-    "pk": 44
+    "id": 44
   },
   {
     "fields": {
@@ -2468,7 +2677,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 45
+    "id": 45
   },
   {
     "fields": {
@@ -2485,7 +2694,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 46
+    "id": 46
   },
   {
     "fields": {
@@ -2502,7 +2711,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 47
+    "id": 47
   },
   {
     "fields": {
@@ -2519,7 +2728,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 48
+    "id": 48
   },
   {
     "fields": {
@@ -2536,7 +2745,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 49
+    "id": 49
   },
   {
     "fields": {
@@ -2553,7 +2762,7 @@
       "population": "3500000000"
     },
     "model": "resources.planet",
-    "pk": 50
+    "id": 50
   },
   {
     "fields": {
@@ -2570,7 +2779,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 51
+    "id": 51
   },
   {
     "fields": {
@@ -2587,7 +2796,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 52
+    "id": 52
   },
   {
     "fields": {
@@ -2604,7 +2813,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 53
+    "id": 53
   },
   {
     "fields": {
@@ -2621,7 +2830,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 54
+    "id": 54
   },
   {
     "fields": {
@@ -2638,7 +2847,7 @@
       "population": "500000000"
     },
     "model": "resources.planet",
-    "pk": 55
+    "id": 55
   },
   {
     "fields": {
@@ -2655,7 +2864,7 @@
       "population": "500000000000"
     },
     "model": "resources.planet",
-    "pk": 56
+    "id": 56
   },
   {
     "fields": {
@@ -2672,7 +2881,7 @@
       "population": "5000000000"
     },
     "model": "resources.planet",
-    "pk": 57
+    "id": 57
   },
   {
     "fields": {
@@ -2689,7 +2898,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 58
+    "id": 58
   },
   {
     "fields": {
@@ -2706,7 +2915,7 @@
       "population": "4000000000"
     },
     "model": "resources.planet",
-    "pk": 59
+    "id": 59
   },
   {
     "fields": {
@@ -2723,8 +2932,7 @@
       "population": "unknown"
     },
     "model": "resources.planet",
-    "pk": 60
+    "id": 60
   }
 ]
-
 }
